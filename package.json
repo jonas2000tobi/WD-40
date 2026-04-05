@@ -63,7 +63,8 @@
     "node-html-parser": "^7.0.2",
     "sharp": "^0.34.5",
     "simple-folder-search": "^2.3.0",
-    "youtubei.js": "^17.0.1"
+    "youtubei.js": "^17.0.1",
+    "youtube-dl-exec": "latest"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
